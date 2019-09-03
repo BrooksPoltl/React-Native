@@ -1,3 +1,3 @@
 # React-Native
 
-## the-complete-react-native-and-redux-course 2019
+## The Complete React Native + Hooks Course[2019 Edition] - Stephen Grider
